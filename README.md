@@ -1,16 +1,10 @@
 # flutter_device_preview
 
-A new Flutter project.
+A example of how to use the device_preview package.
 
-## Getting Started
+![Demo](./demo.gif)
 
-This project is a starting point for a Flutter application.
+The device_preview package for Flutter provides a powerful and flexible way to preview an app's appearance and performance on multiple devices, allowing developers to test their apps quickly and efficiently. By using this tool, developers can ensure that their app looks and performs consistently on a wide range of devices, leading to a better user experience and higher customer satisfaction.
 
-A few resources to get you started if this is your first Flutter project:
+DEMO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
